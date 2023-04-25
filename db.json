@@ -40,5 +40,7 @@
           "gender": "Female"
         }
       ],
-      "auth" : []
+      "auth" : [],
+      "cars": [],
+      "wishlisted_cars" : []
 }
