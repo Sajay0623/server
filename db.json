@@ -42,5 +42,6 @@
       ],
       "auth" : [],
       "cars": [],
-      "wishlisted_cars" : []
+      "wishlisted_cars" : [],
+      "employees" : []
 }
