@@ -43,5 +43,6 @@
       "auth" : [],
       "cars": [],
       "wishlisted_cars" : [],
-      "employees" : []
+      "employees" : [],
+      "ice_cream" : []
 }
